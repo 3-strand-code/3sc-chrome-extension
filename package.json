@@ -1,0 +1,25 @@
+{
+  "name": "3sc-chrome-extension",
+  "version": "0.1.0",
+  "description": "A Chrome extension for 3 Stand Code assignments and help.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3-strand-code/3sc-chrome-extension.git"
+  },
+  "keywords": [
+    "3",
+    "Strand",
+    "Code",
+    "extension"
+  ],
+  "author": "Levi Thomason <levi@3strandcode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3-strand-code/3sc-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/3-strand-code/3sc-chrome-extension#readme",
+}
